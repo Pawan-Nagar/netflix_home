@@ -1,0 +1,31 @@
+
+html {
+ background-color: rgb(182, 181, 181);
+
+}
+h1  {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+
+}
+.g{
+    color: brown;
+}
+
+#id{
+     border-radius: 600px;
+     margin: 10px;
+     border-color: blue;
+}
+
+p{
+    
+    text-align: start;
+    color: blueviolet;
+}
+
+img{
+    
+    height: 200px;
+    color-interpolation-filters: auto;
+}

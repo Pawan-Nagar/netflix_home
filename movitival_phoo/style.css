@@ -1,0 +1,32 @@
+
+
+html{
+   
+    background-color: rgb(64, 68, 71);
+}
+
+
+h1{
+    font: 20px;
+    color: blueviolet ;
+    text-align: center;
+    margin-top: 50px;
+}
+img {
+    position: relative;
+    margin-left: 300px;
+    margin-top:         px;
+    height: 250px;
+
+    border: 1px rgb(7, 9, 7) solid;
+
+    padding: 50px;
+    background-color: rgb(38, 133, 133);
+      
+}
+
+#aa{
+    text-align: center;
+    color: rgb(15, 21, 8) solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
